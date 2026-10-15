@@ -1,1 +1,1 @@
-Project notes from the supplied archive are available in the uploaded local copy. This file is being restored after a connector test.
+Pantheon project source from the supplied ZIP archive. This repository contains the Black Hole Combat prototype, JavaScript modules, HTML template, build scripts, browser checks, tests, and screenshots. The source archive is also available locally as Pantheon-source-unpacked.zip.
