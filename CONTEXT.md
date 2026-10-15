@@ -1,1 +1,3 @@
-Pantheon project source from the supplied ZIP archive. This repository contains the Black Hole Combat prototype, JavaScript modules, HTML template, build scripts, browser checks, tests, and screenshots. The source archive is also available locally as Pantheon-source-unpacked.zip.
+This is the Pantheon- project source repository.
+
+The original `bh-source` archive contains 27 files: JavaScript game modules, an HTML template, build scripts, tests, and browser screenshot assets.
