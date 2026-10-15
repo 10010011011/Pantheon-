@@ -1,5 +1,0 @@
-/*
- * BLACK HOLE COMBAT -- single-file build (Babylon.js 9.22.2 vendored as ./babylon.js, no CDN).
- * Source of design: "Black Hole Combat System -- Ultimate Master Plan", treated as a strong
- * SUGGESTION, not gospel. Where this file deviates, the module comment says why.
- */
