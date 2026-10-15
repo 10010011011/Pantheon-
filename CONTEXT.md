@@ -1,1 +1,1 @@
-Test upload
+Project notes from the supplied archive are available in the uploaded local copy. This file is being restored after a connector test.
